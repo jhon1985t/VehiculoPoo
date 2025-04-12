@@ -19,3 +19,10 @@ Ejecuta el `main.py` para ver una guía de uso.
 ## Requisitos
 
 - Python 3.8+
+
+## Integrantes
+
+Juan Diego Bedoya Cardona
+Jeronimo Montoya Osorio
+Ronaldd Cristancho Amaya
+Maria Fernanda Pastrana Jaramillo
