@@ -26,3 +26,4 @@ Juan Diego Bedoya Cardona
 Jeronimo Montoya Osorio
 Ronaldd Cristancho Amaya
 Maria Fernanda Pastrana Jaramillo
+Jhon Jarol Tabares Orozco
